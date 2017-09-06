@@ -3,5 +3,5 @@
 run test
 
 ```
-ruby -Ilib:test test/test_custmer.rb
+ruby -Ilib:test test/test_customer.rb
 ```
